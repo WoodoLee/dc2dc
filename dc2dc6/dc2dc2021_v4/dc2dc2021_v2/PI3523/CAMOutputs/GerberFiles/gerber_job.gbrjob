@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-04-01T08:10:35Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.99,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "PI3523_EVAL_v2"
+        },
+        "Owner": "Woodo Lee <wdlee@hep.korea.ac.kr>",
+        "Size": {
+            "X": 70,
+            "Y": 80
+        }
+    }
+}

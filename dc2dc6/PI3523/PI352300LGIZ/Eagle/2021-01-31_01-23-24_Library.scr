@@ -1,0 +1,598 @@
+# Created by Ultra Librarian Gold 8.3.283 Copyright © 1999-2018
+# Frank Frank, Accelerated Designs
+
+Grid mil;
+Set Wire_Bend 2;
+
+
+Edit 'LGA_PI3523-00-LGIZ_VIC.pac';
+Layer 1;
+Smd 'A1' 24 24 -0 R0 (-255.9055 177.1654);
+Layer 1;
+Smd 'A2' 24 24 -0 R0 (-216.5354 177.1654);
+Layer 1;
+Smd 'A3' 24 24 -0 R0 (-177.1654 177.1654);
+Layer 1;
+Smd 'A4' 24 24 -0 R0 (-137.7953 177.1654);
+Layer 1;
+Smd 'A5' 24 24 -0 R0 (-98.4252 177.1654);
+Layer 1;
+Smd 'A6' 24 24 -0 R0 (-59.0551 177.1654);
+Layer 1;
+Smd 'A8' 24 24 -0 R0 (19.685 177.1654);
+Layer 1;
+Smd 'A9' 24 24 -0 R0 (59.0551 177.1654);
+Layer 1;
+Smd 'A10' 24 24 -0 R0 (98.4252 177.1654);
+Layer 1;
+Smd 'A12' 24 24 -0 R0 (177.1653 177.1654);
+Layer 1;
+Smd 'A14' 24 24 -0 R0 (255.9055 177.1654);
+Layer 1;
+Smd 'B1' 24 24 -0 R0 (-255.9055 137.7953);
+Layer 1;
+Smd 'B2' 24 24 -0 R0 (-216.5354 137.7953);
+Layer 1;
+Smd 'B3' 24 24 -0 R0 (-177.1654 137.7953);
+Layer 1;
+Smd 'B4' 24 24 -0 R0 (-137.7953 137.7953);
+Layer 1;
+Smd 'B5' 24 24 -0 R0 (-98.4252 137.7953);
+Layer 1;
+Smd 'B6' 24 24 -0 R0 (-59.0551 137.7953);
+Layer 1;
+Smd 'B8' 24 24 -0 R0 (19.685 137.7953);
+Layer 1;
+Smd 'B9' 24 24 -0 R0 (59.0551 137.7953);
+Layer 1;
+Smd 'B10' 24 24 -0 R0 (98.4252 137.7953);
+Layer 1;
+Smd 'B12' 24 24 -0 R0 (177.1653 137.7953);
+Layer 1;
+Smd 'B14' 24 24 -0 R0 (255.9055 137.7953);
+Layer 1;
+Smd 'C1' 24 24 -0 R0 (-255.9055 98.4252);
+Layer 1;
+Smd 'C2' 24 24 -0 R0 (-216.5354 98.4252);
+Layer 1;
+Smd 'C3' 24 24 -0 R0 (-177.1654 98.4252);
+Layer 1;
+Smd 'C4' 24 24 -0 R0 (-137.7953 98.4252);
+Layer 1;
+Smd 'C5' 24 24 -0 R0 (-98.4252 98.4252);
+Layer 1;
+Smd 'C6' 24 24 -0 R0 (-59.0551 98.4252);
+Layer 1;
+Smd 'C8' 24 24 -0 R0 (19.685 98.4252);
+Layer 1;
+Smd 'C9' 24 24 -0 R0 (59.0551 98.4252);
+Layer 1;
+Smd 'C10' 24 24 -0 R0 (98.4252 98.4252);
+Layer 1;
+Smd 'C12' 24 24 -0 R0 (177.1653 98.4252);
+Layer 1;
+Smd 'C14' 24 24 -0 R0 (255.9055 98.4252);
+Layer 1;
+Smd 'D1' 24 24 -0 R0 (-255.9055 59.0551);
+Layer 1;
+Smd 'D2' 24 24 -0 R0 (-216.5354 59.0551);
+Layer 1;
+Smd 'D3' 24 24 -0 R0 (-177.1654 59.0551);
+Layer 1;
+Smd 'D4' 24 24 -0 R0 (-137.7953 59.0551);
+Layer 1;
+Smd 'D5' 24 24 -0 R0 (-98.4252 59.0551);
+Layer 1;
+Smd 'D6' 24 24 -0 R0 (-59.0551 59.0551);
+Layer 1;
+Smd 'D8' 24 24 -0 R0 (19.685 59.0551);
+Layer 1;
+Smd 'D9' 24 24 -0 R0 (59.0551 59.0551);
+Layer 1;
+Smd 'D10' 24 24 -0 R0 (98.4252 59.0551);
+Layer 1;
+Smd 'D12' 24 24 -0 R0 (177.1653 59.0551);
+Layer 1;
+Smd 'D14' 24 24 -0 R0 (255.9055 59.0551);
+Layer 1;
+Smd 'E1' 24 24 -0 R0 (-255.9055 19.6851);
+Layer 1;
+Smd 'E2' 24 24 -0 R0 (-216.5354 19.6851);
+Layer 1;
+Smd 'E3' 24 24 -0 R0 (-177.1654 19.6851);
+Layer 1;
+Smd 'E4' 24 24 -0 R0 (-137.7953 19.6851);
+Layer 1;
+Smd 'E5' 24 24 -0 R0 (-98.4252 19.6851);
+Layer 1;
+Smd 'E6' 24 24 -0 R0 (-59.0551 19.6851);
+Layer 1;
+Smd 'E8' 24 24 -0 R0 (19.685 19.6851);
+Layer 1;
+Smd 'E9' 24 24 -0 R0 (59.0551 19.6851);
+Layer 1;
+Smd 'E10' 24 24 -0 R0 (98.4252 19.6851);
+Layer 1;
+Smd 'E12' 24 24 -0 R0 (177.1653 19.6851);
+Layer 1;
+Smd 'E14' 24 24 -0 R0 (255.9055 19.6851);
+Layer 1;
+Smd 'F1' 24 24 -0 R0 (-255.9055 -19.685);
+Layer 1;
+Smd 'F2' 24 24 -0 R0 (-216.5354 -19.685);
+Layer 1;
+Smd 'F3' 24 24 -0 R0 (-177.1654 -19.685);
+Layer 1;
+Smd 'F4' 24 24 -0 R0 (-137.7953 -19.685);
+Layer 1;
+Smd 'F5' 24 24 -0 R0 (-98.4252 -19.685);
+Layer 1;
+Smd 'F6' 24 24 -0 R0 (-59.0551 -19.685);
+Layer 1;
+Smd 'F8' 24 24 -0 R0 (19.685 -19.685);
+Layer 1;
+Smd 'F9' 24 24 -0 R0 (59.0551 -19.685);
+Layer 1;
+Smd 'F10' 24 24 -0 R0 (98.4252 -19.685);
+Layer 1;
+Smd 'F12' 24 24 -0 R0 (177.1653 -19.685);
+Layer 1;
+Smd 'F14' 24 24 -0 R0 (255.9055 -19.685);
+Layer 1;
+Smd 'G1' 24 24 -0 R0 (-255.9055 -59.0551);
+Layer 1;
+Smd 'G2' 24 24 -0 R0 (-216.5354 -59.0551);
+Layer 1;
+Smd 'G3' 24 24 -0 R0 (-177.1654 -59.0551);
+Layer 1;
+Smd 'G4' 24 24 -0 R0 (-137.7953 -59.0551);
+Layer 1;
+Smd 'G5' 24 24 -0 R0 (-98.4252 -59.0551);
+Layer 1;
+Smd 'G6' 24 24 -0 R0 (-59.0551 -59.0551);
+Layer 1;
+Smd 'G8' 24 24 -0 R0 (19.685 -59.0551);
+Layer 1;
+Smd 'G9' 24 24 -0 R0 (59.0551 -59.0551);
+Layer 1;
+Smd 'G10' 24 24 -0 R0 (98.4252 -59.0551);
+Layer 1;
+Smd 'G12' 24 24 -0 R0 (177.1653 -59.0551);
+Layer 1;
+Smd 'G14' 24 24 -0 R0 (255.9055 -59.0551);
+Layer 1;
+Smd 'H1' 24 24 -0 R0 (-255.9055 -98.4252);
+Layer 1;
+Smd 'H2' 24 24 -0 R0 (-216.5354 -98.4252);
+Layer 1;
+Smd 'H3' 24 24 -0 R0 (-177.1654 -98.4252);
+Layer 1;
+Smd 'H4' 24 24 -0 R0 (-137.7953 -98.4252);
+Layer 1;
+Smd 'H5' 24 24 -0 R0 (-98.4252 -98.4252);
+Layer 1;
+Smd 'H6' 24 24 -0 R0 (-59.0551 -98.4252);
+Layer 1;
+Smd 'H8' 24 24 -0 R0 (19.685 -98.4252);
+Layer 1;
+Smd 'H9' 24 24 -0 R0 (59.0551 -98.4252);
+Layer 1;
+Smd 'H10' 24 24 -0 R0 (98.4252 -98.4252);
+Layer 1;
+Smd 'H12' 24 24 -0 R0 (177.1653 -98.4252);
+Layer 1;
+Smd 'H14' 24 24 -0 R0 (255.9055 -98.4252);
+Layer 1;
+Smd 'J1' 24 24 -0 R0 (-255.9055 -137.7953);
+Layer 1;
+Smd 'J2' 24 24 -0 R0 (-216.5354 -137.7953);
+Layer 1;
+Smd 'J3' 24 24 -0 R0 (-177.1654 -137.7953);
+Layer 1;
+Smd 'J4' 24 24 -0 R0 (-137.7953 -137.7953);
+Layer 1;
+Smd 'J5' 24 24 -0 R0 (-98.4252 -137.7953);
+Layer 1;
+Smd 'J6' 24 24 -0 R0 (-59.0551 -137.7953);
+Layer 1;
+Smd 'J8' 24 24 -0 R0 (19.685 -137.7953);
+Layer 1;
+Smd 'J9' 24 24 -0 R0 (59.0551 -137.7953);
+Layer 1;
+Smd 'J10' 24 24 -0 R0 (98.4252 -137.7953);
+Layer 1;
+Smd 'J12' 24 24 -0 R0 (177.1653 -137.7953);
+Layer 1;
+Smd 'J14' 24 24 -0 R0 (255.9055 -137.7953);
+Layer 1;
+Smd 'K1' 24 24 -0 R0 (-255.9055 -177.1653);
+Layer 1;
+Smd 'K2' 24 24 -0 R0 (-216.5354 -177.1653);
+Layer 1;
+Smd 'K3' 24 24 -0 R0 (-177.1654 -177.1653);
+Layer 1;
+Smd 'K4' 24 24 -0 R0 (-137.7953 -177.1653);
+Layer 1;
+Smd 'K5' 24 24 -0 R0 (-98.4252 -177.1653);
+Layer 1;
+Smd 'K6' 24 24 -0 R0 (-59.0551 -177.1653);
+Layer 1;
+Smd 'K8' 24 24 -0 R0 (19.685 -177.1653);
+Layer 1;
+Smd 'K9' 24 24 -0 R0 (59.0551 -177.1653);
+Layer 1;
+Smd 'K10' 24 24 -0 R0 (98.4252 -177.1653);
+Layer 1;
+Smd 'K12' 24 24 -0 R0 (177.1653 -177.1653);
+Layer 1;
+Smd 'K14' 24 24 -0 R0 (255.9055 -177.1653);
+Layer 21;
+Wire 6 (280 75) (280 83);
+Wire 6 (-280 4) (-280 -4);
+Wire 6 (280 -122) (280 -114);
+Wire 6 (192 -202) (241 -202);
+Wire 6 (-152 202) (-163 202);
+Wire 6 (-123 -202) (-113 -202);
+Wire 6 (44 202) (34 202);
+Wire 6 (74 -202) (84 -202);
+Wire 6 (-280 -202) (-271 -202);
+Wire 6 (280 -202) (280 -193);
+Wire 6 (280 202) (271 202);
+Wire 6 (-280 202) (-280 193);
+Wire 6 (-271 202) (-280 202);
+Wire 6 (-280 162) (-280 153);
+Wire 6 (-231 202) (-241 202);
+Wire 6 (-192 202) (-202 202);
+Wire 6 (-113 202) (-123 202);
+Wire 6 (-74 202) (-84 202);
+Wire 6 (5 202) (-44 202);
+Wire 6 (84 202) (74 202);
+Wire 6 (163 202) (113 202);
+Wire 6 (280 193) (280 202);
+Wire 6 (241 202) (192 202);
+Wire 6 (-280 122) (-280 114);
+Wire 6 (280 153) (280 162);
+Wire 6 (-280 83) (-280 75);
+Wire 6 (280 114) (280 122);
+Wire 6 (-280 43) (-280 35);
+Wire 6 (280 35) (280 43);
+Wire 6 (-280 -35) (-280 -43);
+Wire 6 (280 -4) (280 4);
+Wire 6 (-280 -75) (-280 -83);
+Wire 6 (280 -43) (280 -35);
+Wire 6 (-280 -114) (-280 -122);
+Wire 6 (280 -83) (280 -75);
+Wire 6 (-280 -153) (-280 -162);
+Wire 6 (-241 -202) (-231 -202);
+Wire 6 (-280 -193) (-280 -202);
+Wire 6 (-202 -202) (-192 -202);
+Wire 6 (-163 -202) (-152 -202);
+Wire 6 (-84 -202) (-74 -202);
+Wire 6 (-44 -202) (5 -202);
+Wire 6 (34 -202) (44 -202);
+Wire 6 (113 -202) (163 -202);
+Wire 6 (271 -202) (280 -202);
+Wire 6 (280 -162) (280 -153);
+Change Size 50;
+Change Ratio 6;
+Text 'A' SR0 (-346 152);
+Change Size 50;
+Change Ratio 6;
+Text 'K' SR0 (-346 -202);
+Change Size 50;
+Change Ratio 6;
+Text '1' SR90 (-231 222);
+Change Size 50;
+Change Ratio 6;
+Text '14' SR90 (281 222);
+Change Size 50;
+Change Ratio 6;
+Text '>Value' SR0 (-68 -25);
+Layer 51;
+Wire 6 (-256 197) (-276 177);
+Wire 6 (-276 -197) (276 -197);
+Wire 6 (276 -197) (276 197);
+Wire 6 (276 197) (-276 197);
+Wire 6 (-276 197) (-276 -197);
+Change Size 50;
+Change Ratio 6;
+Text 'A' SR0 (-346 152);
+Change Size 50;
+Change Ratio 6;
+Text 'K' SR0 (-346 -202);
+Change Size 50;
+Change Ratio 6;
+Text '1' SR90 (-231 222);
+Change Size 50;
+Change Ratio 6;
+Text '14' SR90 (281 222);
+Layer 22;
+Change Size 50;
+Change Ratio 6;
+Text 'A' SMR0 (-301 152);
+Change Size 50;
+Change Ratio 6;
+Text 'K' SMR0 (-301 -202);
+Change Size 50;
+Change Ratio 6;
+Text '1' SMR90 (-281 222);
+Change Size 50;
+Change Ratio 6;
+Text '14' SMR90 (231 222);
+Layer 25;
+Change Size 50;
+Change Ratio 6;
+Text '>Name' SR0 (-129 -25);
+Layer 27;
+
+Edit 'PI3523-00-LGIZ.sym';
+Layer 94;
+Pin 'EA0' Pas None Middle R0 Both 0 (100 0)
+Pin 'EAIN' Pas None Middle R0 Both 0 (100 -100)
+Pin 'VDIFF' Pas None Middle R0 Both 0 (100 -200)
+Pin 'VSN' Pas None Middle R0 Both 0 (100 -300)
+Pin 'VSP' Pas None Middle R0 Both 0 (100 -400)
+Pin 'VOUT_2' Out None Middle R0 Both 0 (100 -500)
+Pin 'VIN_2' Pwr None Middle R0 Both 0 (100 -600)
+Pin 'VIN_3' Pwr None Middle R0 Both 0 (100 -700)
+Pin 'VIN_4' Pwr None Middle R0 Both 0 (100 -800)
+Pin 'PGND_2' Pas None Middle R0 Both 0 (100 -900)
+Pin 'VS1_2' I/O None Middle R0 Both 0 (100 -1000)
+Pin 'COMP' Pas None Middle R0 Both 0 (100 -1100)
+Pin 'SGND_2' Pas None Middle R0 Both 0 (100 -1200)
+Pin 'SGND_3' Pas None Middle R0 Both 0 (100 -1300)
+Pin 'SGND_4' Pas None Middle R0 Both 0 (100 -1400)
+Pin 'PGND_3' Pas None Middle R0 Both 0 (100 -1500)
+Pin 'VOUT' Out None Middle R0 Both 0 (100 -1600)
+Pin 'VIN_5' Pwr None Middle R0 Both 0 (100 -1700)
+Pin 'VIN_6' Pwr None Middle R0 Both 0 (100 -1800)
+Pin 'VIN_7' Pwr None Middle R0 Both 0 (100 -1900)
+Pin 'PGND_4' Pas None Middle R0 Both 0 (100 -2000)
+Pin 'VS1_3' I/O None Middle R0 Both 0 (100 -2100)
+Pin 'TRK' Pas None Middle R0 Both 0 (100 -2200)
+Pin 'SGND_5' Pas None Middle R0 Both 0 (100 -2300)
+Pin 'SGND_6' Pas None Middle R0 Both 0 (100 -2400)
+Pin 'PGND_5' Pas None Middle R0 Both 0 (100 -2500)
+Pin 'PGND_6' Pas None Middle R0 Both 0 (100 -2600)
+Pin 'PGND_7' Pas None Middle R180 Both 0 (1700 -2700)
+Pin 'VIN_8' Pwr None Middle R180 Both 0 (1700 -2600)
+Pin 'VIN_9' Pwr None Middle R180 Both 0 (1700 -2500)
+Pin 'VIN_10' Pwr None Middle R180 Both 0 (1700 -2400)
+Pin 'PGND_8' Pas None Middle R180 Both 0 (1700 -2300)
+Pin 'VS1_4' I/O None Middle R180 Both 0 (1700 -2200)
+Pin 'SGND_7' Pas None Middle R180 Both 0 (1700 -2100)
+Pin 'SGND_8' Pas None Middle R180 Both 0 (1700 -2000)
+Pin 'SGND_9' Pas None Middle R180 Both 0 (1700 -1900)
+Pin 'PGND_9' Pas None Middle R180 Both 0 (1700 -1800)
+Pin 'PGND_10' Pas None Middle R180 Both 0 (1700 -1700)
+Pin 'PGND_11' Pas None Middle R180 Both 0 (1700 -1600)
+Pin 'VIN_11' Pwr None Middle R180 Both 0 (1700 -1500)
+Pin 'VIN_12' Pwr None Middle R180 Both 0 (1700 -1400)
+Pin 'VIN_13' Pwr None Middle R180 Both 0 (1700 -1300)
+Pin 'PGND_12' Pas None Middle R180 Both 0 (1700 -1200)
+Pin 'VS1_5' I/O None Middle R180 Both 0 (1700 -1100)
+Pin 'TEST5' I/O None Middle R180 Both 0 (1700 -1000)
+Pin 'SGND_10' Pas None Middle R180 Both 0 (1700 -900)
+Pin 'SGND' Pas None Middle R180 Both 0 (1700 -800)
+Pin 'PGND_13' Pas None Middle R180 Both 0 (1700 -700)
+Pin 'PGND_14' Pas None Middle R180 Both 0 (1700 -600)
+Pin 'PGND_15' Pas None Middle R180 Both 0 (1700 -500)
+Pin 'VIN_14' Pwr None Middle R180 Both 0 (1700 -400)
+Pin 'VIN_15' Pwr None Middle R180 Both 0 (1700 -300)
+Pin 'VIN' Pwr None Middle R180 Both 0 (1700 -200)
+Pin 'PGND' Pas None Middle R180 Both 0 (1700 -100)
+Pin 'VS1' I/O None Middle R180 Both 0 (1700 0)
+Wire 6 (300 200) (300 -2900);
+Wire 6 (300 -2900) (1500 -2900);
+Wire 6 (1500 -2900) (1500 200);
+Wire 6 (1500 200) (300 200);
+Layer 97;
+Change Size 82;
+Change Ratio 6;
+Text '1 of 2' SR0 (689 59);
+Layer 95;
+Change Size 82;
+Change Ratio 6;
+Text '>Name' SR0 (714 359);
+Layer 96;
+Change Size 82;
+Change Ratio 6;
+Text '>Value' SR0 (689 259);
+
+Edit 'PI3523-00-LGIZ_00.sym';
+Layer 94;
+Pin 'EN' Pas None Middle R0 Both 0 (100 0)
+Pin 'PGND_2' Pas None Middle R0 Both 0 (100 -100)
+Pin 'PGND_3' Pas None Middle R0 Both 0 (100 -200)
+Pin 'PGND_4' Pas None Middle R0 Both 0 (100 -300)
+Pin 'PGND_5' Pas None Middle R0 Both 0 (100 -400)
+Pin 'PGND_6' Pas None Middle R0 Both 0 (100 -500)
+Pin 'VIN_2' Pwr None Middle R0 Both 0 (100 -600)
+Pin 'VIN_3' Pwr None Middle R0 Both 0 (100 -700)
+Pin 'VIN_4' Pwr None Middle R0 Both 0 (100 -800)
+Pin 'PGND_7' Pas None Middle R0 Both 0 (100 -900)
+Pin 'VS1_2' I/O None Middle R0 Both 0 (100 -1000)
+Pin 'PWRG0' Pas None Middle R0 Both 0 (100 -1100)
+Pin 'PGND_8' Pas None Middle R0 Both 0 (100 -1200)
+Pin 'PGND_9' Pas None Middle R0 Both 0 (100 -1300)
+Pin 'PGND_10' Pas None Middle R0 Both 0 (100 -1400)
+Pin 'PGND_11' Pas None Middle R0 Both 0 (100 -1500)
+Pin 'PGND_12' Pas None Middle R0 Both 0 (100 -1600)
+Pin 'VIN_5' Pwr None Middle R0 Both 0 (100 -1700)
+Pin 'VIN_6' Pwr None Middle R0 Both 0 (100 -1800)
+Pin 'VIN_7' Pwr None Middle R0 Both 0 (100 -1900)
+Pin 'PGND_13' Pas None Middle R0 Both 0 (100 -2000)
+Pin 'VS1_3' I/O None Middle R0 Both 0 (100 -2100)
+Pin 'TEST4' I/O None Middle R0 Both 0 (100 -2200)
+Pin 'PGND_14' Pas None Middle R0 Both 0 (100 -2300)
+Pin 'PGND_15' Pas None Middle R0 Both 0 (100 -2400)
+Pin 'PGND_16' Pas None Middle R0 Both 0 (100 -2500)
+Pin 'PGND_17' Pas None Middle R0 Both 0 (100 -2600)
+Pin 'PGND_18' Pas None Middle R180 Both 0 (1700 -2700)
+Pin 'VIN_8' Pwr None Middle R180 Both 0 (1700 -2600)
+Pin 'VIN_9' Pwr None Middle R180 Both 0 (1700 -2500)
+Pin 'VIN_10' Pwr None Middle R180 Both 0 (1700 -2400)
+Pin 'PGND_19' Pas None Middle R180 Both 0 (1700 -2300)
+Pin 'VS1_4' I/O None Middle R180 Both 0 (1700 -2200)
+Pin 'TEST3' I/O None Middle R180 Both 0 (1700 -2100)
+Pin 'PGND_20' Pas None Middle R180 Both 0 (1700 -2000)
+Pin 'PGND_21' Pas None Middle R180 Both 0 (1700 -1900)
+Pin 'PGND_22' Pas None Middle R180 Both 0 (1700 -1800)
+Pin 'PGND_23' Pas None Middle R180 Both 0 (1700 -1700)
+Pin 'PGND_24' Pas None Middle R180 Both 0 (1700 -1600)
+Pin 'VIN_11' Pwr None Middle R180 Both 0 (1700 -1500)
+Pin 'VIN_12' Pwr None Middle R180 Both 0 (1700 -1400)
+Pin 'VIN_13' Pwr None Middle R180 Both 0 (1700 -1300)
+Pin 'PGND_25' Pas None Middle R180 Both 0 (1700 -1200)
+Pin 'VS1_5' I/O None Middle R180 Both 0 (1700 -1100)
+Pin 'TEST2' I/O None Middle R180 Both 0 (1700 -1000)
+Pin 'TEST1' I/O None Middle R180 Both 0 (1700 -900)
+Pin 'SYNC0' I/O None Middle R180 Both 0 (1700 -800)
+Pin 'SYNC1' I/O None Middle R180 Both 0 (1700 -700)
+Pin 'VDR' Pas None Middle R180 Both 0 (1700 -600)
+Pin 'PGND_26' Pas None Middle R180 Both 0 (1700 -500)
+Pin 'VIN_14' Pwr None Middle R180 Both 0 (1700 -400)
+Pin 'VIN_15' Pwr None Middle R180 Both 0 (1700 -300)
+Pin 'VIN' Pwr None Middle R180 Both 0 (1700 -200)
+Pin 'PGND' Pas None Middle R180 Both 0 (1700 -100)
+Pin 'VS1' I/O None Middle R180 Both 0 (1700 0)
+Wire 6 (300 200) (300 -2900);
+Wire 6 (300 -2900) (1500 -2900);
+Wire 6 (1500 -2900) (1500 200);
+Wire 6 (1500 200) (300 200);
+Layer 97;
+Change Size 82;
+Change Ratio 6;
+Text '2 of 2' SR0 (689 59);
+Layer 95;
+Change Size 82;
+Change Ratio 6;
+Text '>Name' SR0 (714 359);
+Layer 96;
+Change Size 82;
+Change Ratio 6;
+Text '>Value' SR0 (689 259);
+
+Edit 'PI3523-00-LGIZ.dev';
+Prefix 'U';
+Description '';
+Value Off;
+Add PI3523-00-LGIZ 'A' Next  0 (0 0);
+Add PI3523-00-LGIZ_00 'B' Next  0 (2340 0);
+Package 'LGA_PI3523-00-LGIZ_VIC';
+Technology '';
+Attribute Copyright 'Copyright (C) 2018 Accelerated Designs. All rights reserved';
+Attribute Built_By 'EMA_Justin';
+Attribute Vendor 'Vicor';
+Attribute Manufacturer_Part_Number 'PI3523-00-LGIZ';
+Attribute SourceLibrary 'Add_to_database_2021-01-28';
+Connect 'A.EA0' 'A1';
+Connect 'A.EAIN' 'A2';
+Connect 'A.VDIFF' 'A3';
+Connect 'A.VSN' 'A4';
+Connect 'A.VSP' 'A5';
+Connect 'A.VOUT_2' 'A6';
+Connect 'A.VIN_2' 'A8';
+Connect 'A.VIN_3' 'A9';
+Connect 'A.VIN_4' 'A10';
+Connect 'A.PGND_2' 'A12';
+Connect 'A.VS1_2' 'A14';
+Connect 'A.COMP' 'B1';
+Connect 'A.SGND_2' 'B2';
+Connect 'A.SGND_3' 'B3';
+Connect 'A.SGND_4' 'B4';
+Connect 'A.PGND_3' 'B5';
+Connect 'A.VOUT' 'B6';
+Connect 'A.VIN_5' 'B8';
+Connect 'A.VIN_6' 'B9';
+Connect 'A.VIN_7' 'B10';
+Connect 'A.PGND_4' 'B12';
+Connect 'A.VS1_3' 'B14';
+Connect 'A.TRK' 'C1';
+Connect 'A.SGND_5' 'C2';
+Connect 'A.SGND_6' 'C3';
+Connect 'A.PGND_5' 'C4';
+Connect 'A.PGND_6' 'C5';
+Connect 'A.PGND_7' 'C6';
+Connect 'A.VIN_8' 'C8';
+Connect 'A.VIN_9' 'C9';
+Connect 'A.VIN_10' 'C10';
+Connect 'A.PGND_8' 'C12';
+Connect 'A.VS1_4' 'C14';
+Connect 'A.SGND_7' 'D1';
+Connect 'A.SGND_8' 'D2';
+Connect 'A.SGND_9' 'D3';
+Connect 'A.PGND_9' 'D4';
+Connect 'A.PGND_10' 'D5';
+Connect 'A.PGND_11' 'D6';
+Connect 'A.VIN_11' 'D8';
+Connect 'A.VIN_12' 'D9';
+Connect 'A.VIN_13' 'D10';
+Connect 'A.PGND_12' 'D12';
+Connect 'A.VS1_5' 'D14';
+Connect 'A.TEST5' 'E1';
+Connect 'A.SGND_10' 'E2';
+Connect 'A.SGND' 'E3';
+Connect 'A.PGND_13' 'E4';
+Connect 'A.PGND_14' 'E5';
+Connect 'A.PGND_15' 'E6';
+Connect 'A.VIN_14' 'E8';
+Connect 'A.VIN_15' 'E9';
+Connect 'A.VIN' 'E10';
+Connect 'A.PGND' 'E12';
+Connect 'A.VS1' 'E14';
+Connect 'B.EN' 'F1';
+Connect 'B.PGND_2' 'F2';
+Connect 'B.PGND_3' 'F3';
+Connect 'B.PGND_4' 'F4';
+Connect 'B.PGND_5' 'F5';
+Connect 'B.PGND_6' 'F6';
+Connect 'B.VIN_2' 'F8';
+Connect 'B.VIN_3' 'F9';
+Connect 'B.VIN_4' 'F10';
+Connect 'B.PGND_7' 'F12';
+Connect 'B.VS1_2' 'F14';
+Connect 'B.PWRG0' 'G1';
+Connect 'B.PGND_8' 'G2';
+Connect 'B.PGND_9' 'G3';
+Connect 'B.PGND_10' 'G4';
+Connect 'B.PGND_11' 'G5';
+Connect 'B.PGND_12' 'G6';
+Connect 'B.VIN_5' 'G8';
+Connect 'B.VIN_6' 'G9';
+Connect 'B.VIN_7' 'G10';
+Connect 'B.PGND_13' 'G12';
+Connect 'B.VS1_3' 'G14';
+Connect 'B.TEST4' 'H1';
+Connect 'B.PGND_14' 'H2';
+Connect 'B.PGND_15' 'H3';
+Connect 'B.PGND_16' 'H4';
+Connect 'B.PGND_17' 'H5';
+Connect 'B.PGND_18' 'H6';
+Connect 'B.VIN_8' 'H8';
+Connect 'B.VIN_9' 'H9';
+Connect 'B.VIN_10' 'H10';
+Connect 'B.PGND_19' 'H12';
+Connect 'B.VS1_4' 'H14';
+Connect 'B.TEST3' 'J1';
+Connect 'B.PGND_20' 'J2';
+Connect 'B.PGND_21' 'J3';
+Connect 'B.PGND_22' 'J4';
+Connect 'B.PGND_23' 'J5';
+Connect 'B.PGND_24' 'J6';
+Connect 'B.VIN_11' 'J8';
+Connect 'B.VIN_12' 'J9';
+Connect 'B.VIN_13' 'J10';
+Connect 'B.PGND_25' 'J12';
+Connect 'B.VS1_5' 'J14';
+Connect 'B.TEST2' 'K1';
+Connect 'B.TEST1' 'K2';
+Connect 'B.SYNC0' 'K3';
+Connect 'B.SYNC1' 'K4';
+Connect 'B.VDR' 'K5';
+Connect 'B.PGND_26' 'K6';
+Connect 'B.VIN_14' 'K8';
+Connect 'B.VIN_15' 'K9';
+Connect 'B.VIN' 'K10';
+Connect 'B.PGND' 'K12';
+Connect 'B.VS1' 'K14';

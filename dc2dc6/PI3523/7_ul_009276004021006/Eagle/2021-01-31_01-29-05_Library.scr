@@ -1,0 +1,249 @@
+# Created by Ultra Librarian Gold 8.3.283 Copyright © 1999-2018
+# Frank Frank, Accelerated Designs
+
+Grid mil;
+Set Wire_Bend 2;
+
+
+Edit 'CONN_009276004021006_AVX.pac';
+Layer 1;
+Smd '1' 47 71 -0 R0 (-147.6378 145.504);
+Layer 1;
+Smd '2' 59 47 -0 R0 (-147.6378 -134.0236);
+Layer 1;
+Smd '3' 47 71 -0 R0 (-49.2126 145.504);
+Layer 1;
+Smd '4' 59 47 -0 R0 (-49.2126 -134.0236);
+Layer 1;
+Smd '5' 47 71 -0 R0 (49.2126 145.504);
+Layer 1;
+Smd '6' 59 47 -0 R0 (49.2126 -134.0236);
+Layer 1;
+Smd '7' 47 71 -0 R0 (147.6378 145.504);
+Layer 1;
+Smd '8' 59 47 -0 R0 (147.6378 -134.0236);
+Layer 21;
+Wire 6 (-202 -182) (202 -182);
+Wire 6 (202 -182) (202 182);
+Wire 6 (202 182) (184 182);
+Wire 6 (-202 182) (-202 -182);
+Wire 6 (-184 182) (-202 182);
+Wire 6 (-86 182) (-111 182);
+Wire 6 (13 182) (-13 182);
+Wire 6 (111 182) (86 182);
+Wire 20 (-212 146) -180 (-242 146);
+Wire 20 (-242 146) -180 (-212 146);
+Change Size 50;
+Change Ratio 6;
+Text '>Value' SR0 (-68 -19);
+Layer 51;
+Wire 6 (-197 -177) (197 -177);
+Wire 6 (197 -177) (197 177);
+Wire 6 (197 177) (-197 177);
+Wire 6 (-197 177) (-197 -177);
+Wire 20 (-133 221) -180 (-163 221);
+Wire 20 (-163 221) -180 (-133 221);
+Layer 22;
+Wire 20 (-212 146) -180 (-242 146);
+Wire 20 (-242 146) -180 (-212 146);
+Layer 25;
+Change Size 50;
+Change Ratio 6;
+Text '>Name' SR0 (-129 -19);
+Layer 27;
+
+Edit 'CONN_008P_004C_1.sym';
+Layer 94;
+Pin '1' Pas None Middle R0 Pad 0 (0 0)
+Pin '2' Pas None Middle R0 Pad 0 (0 -100)
+Pin '3' Pas None Middle R0 Pad 0 (0 -200)
+Pin '4' Pas None Middle R0 Pad 0 (0 -300)
+Pin '5' Pas None Middle R0 Pad 0 (0 -400)
+Pin '6' Pas None Middle R0 Pad 0 (0 -500)
+Pin '7' Pas None Middle R0 Pad 0 (0 -600)
+Pin '8' Pas None Middle R0 Pad 0 (0 -700)
+Wire 6 (200 -800) (500 -800);
+Wire 6 (200 100) (200 -800);
+Wire 6 (500 -800) (500 100);
+Wire 6 (400 0) (200 0);
+Wire 6 (400 -100) (200 -100);
+Wire 6 (400 -200) (200 -200);
+Wire 6 (400 -300) (200 -300);
+Wire 6 (400 -400) (200 -400);
+Wire 6 (400 -500) (200 -500);
+Wire 6 (400 -600) (200 -600);
+Wire 6 (400 -700) (200 -700);
+Wire 6 (400 0) (350 33);
+Wire 6 (400 -100) (350 -67);
+Wire 6 (400 -200) (350 -167);
+Wire 6 (400 -300) (350 -267);
+Wire 6 (400 -400) (350 -367);
+Wire 6 (400 -500) (350 -467);
+Wire 6 (400 -600) (350 -567);
+Wire 6 (400 -700) (350 -667);
+Wire 6 (400 0) (350 -33);
+Wire 6 (400 -100) (350 -133);
+Wire 6 (400 -200) (350 -233);
+Wire 6 (400 -300) (350 -333);
+Wire 6 (400 -400) (350 -433);
+Wire 6 (400 -500) (350 -533);
+Wire 6 (400 -600) (350 -633);
+Wire 6 (400 -700) (350 -733);
+Wire 6 (500 100) (200 100);
+Wire 6 (300 -200) (300 -300);
+Wire 6 (300 -200) (300 -300);
+Wire 6 (300 -400) (300 -500);
+Wire 6 (300 0) (300 -100);
+Wire 6 (300 -600) (300 -700);
+Wire 5 (300 -205) -180 (300 -195);
+Wire 5 (300 -195) -180 (300 -205);
+Wire 5 (300 -305) -180 (300 -295);
+Wire 5 (300 -295) -180 (300 -305);
+Wire 5 (300 -205) -180 (300 -195);
+Wire 5 (300 -195) -180 (300 -205);
+Wire 5 (300 -305) -180 (300 -295);
+Wire 5 (300 -295) -180 (300 -305);
+Wire 5 (300 -405) -180 (300 -395);
+Wire 5 (300 -395) -180 (300 -405);
+Wire 5 (300 -505) -180 (300 -495);
+Wire 5 (300 -495) -180 (300 -505);
+Wire 5 (300 -5) -180 (300 5);
+Wire 5 (300 5) -180 (300 -5);
+Wire 5 (300 -105) -180 (300 -95);
+Wire 5 (300 -95) -180 (300 -105);
+Wire 5 (300 -605) -180 (300 -595);
+Wire 5 (300 -595) -180 (300 -605);
+Wire 5 (300 -705) -180 (300 -695);
+Wire 5 (300 -695) -180 (300 -705);
+Layer 97;
+Layer 95;
+Change Size 82;
+Change Ratio 6;
+Text '>Name' SR0 (164 209);
+
+Edit 'CONN_008P_004C_2.sym';
+Layer 94;
+Pin '1' Pas None Middle R0 Pad 0 (0 0)
+Pin '2' Pas None Middle R0 Pad 0 (0 -100)
+Pin '3' Pas None Middle R0 Pad 0 (0 -200)
+Pin '4' Pas None Middle R0 Pad 0 (0 -300)
+Pin '5' Pas None Middle R0 Pad 0 (0 -400)
+Pin '6' Pas None Middle R0 Pad 0 (0 -500)
+Pin '7' Pas None Middle R0 Pad 0 (0 -600)
+Pin '8' Pas None Middle R0 Pad 0 (0 -700)
+Wire 6 (200 100) (200 -800);
+Wire 6 (200 -800) (500 -800);
+Wire 6 (500 -800) (500 100);
+Wire 6 (300 0) (200 0);
+Wire 6 (300 -100) (200 -100);
+Wire 6 (300 -200) (200 -200);
+Wire 6 (300 -300) (200 -300);
+Wire 6 (300 -400) (200 -400);
+Wire 6 (300 -500) (200 -500);
+Wire 6 (300 -600) (200 -600);
+Wire 6 (300 -700) (200 -700);
+Wire 6 (300 0) (350 33);
+Wire 6 (300 -100) (350 -67);
+Wire 6 (300 -200) (350 -167);
+Wire 6 (300 -300) (350 -267);
+Wire 6 (300 -400) (350 -367);
+Wire 6 (300 -500) (350 -467);
+Wire 6 (300 -600) (350 -567);
+Wire 6 (300 -700) (350 -667);
+Wire 6 (300 0) (350 -33);
+Wire 6 (300 -100) (350 -133);
+Wire 6 (300 -200) (350 -233);
+Wire 6 (300 -300) (350 -333);
+Wire 6 (300 -400) (350 -433);
+Wire 6 (300 -500) (350 -533);
+Wire 6 (300 -600) (350 -633);
+Wire 6 (300 -700) (350 -733);
+Wire 6 (500 100) (200 100);
+Wire 6 (275 0) (275 -100);
+Wire 6 (275 -200) (275 -300);
+Wire 6 (275 -400) (275 -500);
+Wire 6 (275 -600) (275 -700);
+Wire 5 (275 -5) -180 (275 5);
+Wire 5 (275 5) -180 (275 -5);
+Wire 5 (275 -105) -180 (275 -95);
+Wire 5 (275 -95) -180 (275 -105);
+Wire 5 (275 -205) -180 (275 -195);
+Wire 5 (275 -195) -180 (275 -205);
+Wire 5 (275 -305) -180 (275 -295);
+Wire 5 (275 -295) -180 (275 -305);
+Wire 5 (275 -405) -180 (275 -395);
+Wire 5 (275 -395) -180 (275 -405);
+Wire 5 (275 -505) -180 (275 -495);
+Wire 5 (275 -495) -180 (275 -505);
+Wire 5 (275 -605) -180 (275 -595);
+Wire 5 (275 -595) -180 (275 -605);
+Wire 5 (275 -705) -180 (275 -695);
+Wire 5 (275 -695) -180 (275 -705);
+Layer 97;
+Layer 95;
+Change Size 82;
+Change Ratio 6;
+Text '>Name' SR0 (164 209);
+
+Edit 'CONN_008P_004C_3.sym';
+Layer 94;
+Pin '1' Pas None Middle R0 Pad 0 (0 0)
+Pin '2' Pas None Middle R0 Pad 0 (0 -100)
+Pin '3' Pas None Middle R0 Pad 0 (0 -200)
+Pin '4' Pas None Middle R0 Pad 0 (0 -300)
+Pin '5' Pas None Middle R0 Pad 0 (0 -400)
+Pin '6' Pas None Middle R0 Pad 0 (0 -500)
+Pin '7' Pas None Middle R0 Pad 0 (0 -600)
+Pin '8' Pas None Middle R0 Pad 0 (0 -700)
+Wire 6 (200 -800) (500 -800);
+Wire 6 (500 -800) (500 100);
+Wire 6 (200 100) (200 -800);
+Wire 6 (500 100) (200 100);
+Wire 6 (200 0) (325 0);
+Wire 6 (325 0) (325 -100);
+Wire 6 (325 -100) (200 -100);
+Wire 6 (200 -200) (325 -200);
+Wire 6 (325 -200) (325 -300);
+Wire 6 (325 -300) (200 -300);
+Wire 6 (200 0) (325 0);
+Wire 6 (325 0) (325 -100);
+Wire 6 (325 -100) (200 -100);
+Wire 6 (200 -400) (325 -400);
+Wire 6 (325 -400) (325 -500);
+Wire 6 (325 -500) (200 -500);
+Wire 6 (200 -600) (325 -600);
+Wire 6 (200 -400) (325 -400);
+Wire 6 (325 -400) (325 -500);
+Wire 6 (325 -500) (200 -500);
+Wire 6 (325 -600) (325 -700);
+Wire 6 (325 -700) (200 -700);
+Wire 6 (200 -600) (325 -600);
+Wire 6 (325 -600) (325 -700);
+Wire 6 (325 -700) (200 -700);
+Layer 97;
+Layer 95;
+Change Size 82;
+Change Ratio 6;
+Text '>Name' SR0 (164 209);
+
+Edit '009276004021006.dev';
+Prefix 'J';
+Description '';
+Value Off;
+Add CONN_008P_004C_1 'A' Next  0 (0 0);
+Package 'CONN_009276004021006_AVX';
+Technology '';
+Attribute Datasheet 'https://4donline.ihs.com/images/VipMasterIC/IC/AVXC/AVXCS09387/AVXCS09387-1.pdf?hkey=52A5661711E402568146F3353EA87419';
+Attribute Built_By 'EMA_Cory';
+Attribute Copyright 'Copyright (C) 2018 Accelerated Designs. All rights reserved';
+Attribute Vendor 'AVX Corporation';
+Attribute Manufacturer_Part_Number '009276004021006';
+Attribute SourceLibrary 'Add_to_database_2020-12-29';
+Connect 'A.1' '1';
+Connect 'A.2' '2';
+Connect 'A.3' '3';
+Connect 'A.4' '4';
+Connect 'A.5' '5';
+Connect 'A.6' '6';
+Connect 'A.7' '7';
+Connect 'A.8' '8';
